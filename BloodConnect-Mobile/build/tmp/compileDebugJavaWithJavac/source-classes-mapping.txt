@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/blood_connect_mobile/BuildConfig.java
+ com.example.blood_connect_mobile.BuildConfig
+com/example/blood_connect_mobile/MainActivity.java
+ com.example.blood_connect_mobile.MainActivity
